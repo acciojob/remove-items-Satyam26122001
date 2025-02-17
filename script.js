@@ -1,4 +1,4 @@
-function removecolor()
+function removeColor()
 {
 	let select=document.getElementById("colorSelect");
 	let selectedIndex=select.selectedIndex;
